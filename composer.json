@@ -1,0 +1,22 @@
+{
+    "name": "redcatgirl/bootstrap.386",
+    "description": "A vintage 1980s DOS inspired Twitter Bootstrap theme",
+    "keywords": ["bootsrap", "386", "theme", "1980"],
+    "homepage": "https://kristopolous.github.io/BOOTSTRA.386/demo.html",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Chris McKenzie",
+            "email": "kristopolous@yahoo.com"
+        }
+    ],
+    "support": {
+        "main": "https://github.com/kristopolous/BOOTSTRA.386",
+        "fork": "https://github.com/RedCatGirl/bootstrap.386",
+        "issues": "https://github.com/RedCatGirl/bootstrap.386/issues",
+        "website": "http://getpostdelete.com"
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
